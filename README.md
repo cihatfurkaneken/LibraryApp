@@ -49,4 +49,6 @@
 - Editing and deleting are also available.
 
 
+> ** It contains SQL file. With XAMPP Control Panel, you can run Apache and MySQL by upgrading the SQL file.**
+
 > _The application is designed in Turkish but can be easily modified._
