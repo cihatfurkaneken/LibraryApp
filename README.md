@@ -16,13 +16,13 @@
 
 ![stock](https://user-images.githubusercontent.com/48259639/116786141-ccf70a80-aaa5-11eb-957c-5dacd785e7de.png)
 
--
+- The number of books can be tracked and new ones can be added
 
 **Book Tracking**
 
 ![track](https://user-images.githubusercontent.com/48259639/116786150-d4b6af00-aaa5-11eb-9aee-5a40aaa838ec.png)
 
--Book follow-up and book entrusting
+- Book follow-up and book entrusting
 
 **Login**
 
@@ -47,3 +47,6 @@
 ![add](https://user-images.githubusercontent.com/48259639/116786216-1a737780-aaa6-11eb-8a0f-429f93a585f0.png)
 
 - Editing and deleting are also available.
+
+
+> _The application is designed in Turkish but can be easily modified._
