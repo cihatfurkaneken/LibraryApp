@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="tr.edu.javaodev.interfaces.IDALInterfacesUD" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/interfaces/IDALInterfacesUD.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="350" y="112"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="tr.edu.javaodev.interfaces.IDALInterfacesALS" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/interfaces/IDALInterfacesALS.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="185" y="118"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="tr.edu.javaodev.interfaces.IDALInterfacesExtends" 
+    project="KütüphaneOtomasyonu" file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/interfaces/IDALInterfacesExtends.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="183" y="240"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <package id="4" language="java" name="tr.edu.javaodev.interfaces" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/interfaces" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="57" width="226" x="216" y="2"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="5" language="java" name="tr.edu.javaodev.interfaces.IFeInterfaces" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/interfaces/IFeInterfaces.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="511" y="135"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="tr.edu.javaodev.types.AccountsContract" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/AccountsContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="142" y="447"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="tr.edu.javaodev.types.KategoriContract" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/KategoriContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="283" y="422"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="tr.edu.javaodev.types.KitapAlmaContract" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/KitapAlmaContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="478" width="148" x="357" y="294"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="tr.edu.javaodev.types.KitaplarContract" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/KitaplarContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="584" y="475"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="tr.edu.javaodev.types.KitapStokContract" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/KitapStokContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="733" y="485"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="tr.edu.javaodev.types.PersonelContract" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/PersonelContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="883" y="448"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="tr.edu.javaodev.types.UyeContract" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/UyeContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1044" y="504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="tr.edu.javaodev.types.Yetkiler" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types/Yetkiler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1187" y="400"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="14" language="java" name="tr.edu.javaodev.types" project="KütüphaneOtomasyonu" 
+    file="/KütüphaneOtomasyonu/src/tr/edu/javaodev/types" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="70" width="207" x="460" y="208"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
